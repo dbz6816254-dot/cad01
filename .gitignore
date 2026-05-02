@@ -219,3 +219,6 @@ __marimo__/
 
 # Claude Code local settings (personal overrides)
 .claude/settings.local.json
+
+# 민감한 실제 도면/송장 (저장소 외부 공유 금지)
+samples/local/
